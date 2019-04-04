@@ -1,5 +1,4 @@
 # FirstProject_Arsenal
-This Card Game was designed and coded by Noah Holmbeck.
 "At its root, I started this project for the purpose of gaining programming experience. I only had one semester of coding experience under my belt and, thus, the spagetti code is quite messy with little to no commenting. That being said, writing thousands of lines of code can teach things which just cannot be learned in a classroom. If I were to do it again, I would do a lot more planning and I would not waste time using the PApplet API (I had no idea javaFX existed at the time). I'm not even sure if the game is completely debugged since it has been a while since I worked on it, but, hopefully if you are reading this, you can enjoy the game as much as I enjoyed creating it. Below are the game play instructions."
 
 
